@@ -19,7 +19,7 @@ KNOWN LIMITATION (do not paper over this in the C port):
 import math
 from itertools import combinations
 
-import numpy as np
+# import numpy as np
 
 ROUND = 6                    # decimals used for identity of lines/points
 MAX_SOLUTIONS = 3            # O6 solves a cubic
